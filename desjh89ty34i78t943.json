@@ -1,0 +1,16 @@
+{
+    "app_id":"265",
+    "app_ver":"1.2.0",
+    "country":"US",
+    "installTime":"1665647030",
+    "prefer":"",
+    "r1":"100",
+    "stageflag":"3",
+    "token":"1",
+    "uid":"0",
+    "version":"4.0",
+    "vp":"0",
+    "baseURL" :" http://www.merriciya.tech",
+    "isUpdateShow": false,
+    "isUnlock" : false
+}
