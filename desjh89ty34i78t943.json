@@ -1,5 +1,5 @@
 {
-    "api_ver":"1.1.1"
+    "appStore_ver":"1.1.1",
     "app_id":"265",
     "app_ver":"1.2.0",
     "country":"US",
@@ -15,4 +15,3 @@
     "isUpdateShow": false,
     "isUnlock" : false
 }
-
