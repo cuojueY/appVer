@@ -13,6 +13,6 @@
     "version":"4.0",
     "vp":"0",
     "baseURL" :"http://www.merriciya.tech",
-    "isUpdateShow": false,
-    "isUnlock" : true
+    "isUpdateShow": true,
+    "isUnlock" : false
 }
