@@ -1,5 +1,5 @@
 {
-    "appStore_ver":"1.2.4",
+    "appStore_ver":"1.2.5",
     "appStore_id":"1628740358",
     "app_id":"265",
     "app_ver":"1.2.0",
@@ -14,5 +14,5 @@
     "vp":"0",
     "baseURL" :"http://www.zelivonic.site",
     "isUpdateShow": false,
-    "isUnlock" : false
+    "isUnlock" : true
 }
