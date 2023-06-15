@@ -1,5 +1,5 @@
 {
-    "appStore_ver":"1.2.8"
+    "appStore_ver":"1.2.8",
     "appStore_id":"1628740358",
     "app_id":"265",
     "app_ver":"1.2.0",
@@ -14,5 +14,6 @@
     "vp":"0",
     "baseURL" :"http://www.zelivonic.site",
     "isUpdateShow": false,
-    "isUnlock" : true
+    "isUnlock" : true,
+    "IPAddressArray":["A24", "ADMOB", "ADSENSE", "AMAZON", "AMZN", "ANIMATION", "APPLE", "CANAL", "CENTURY", "CHINA", "CHINESE", "CINEMA", "CN", "COMIC", "CONSTANTIN", "DISNEY", "DREAMWORK", "ENTERTAINMENT", "EUROPACORP", "FILM", "FOCUS", "GAUMONT", "GOOGLE", "HEIDI", "HOLLYWOOD", "HULU", "IMAGE", "IQIYI", "LARICK", "LEGENDARY", "LIONSGATE", "MARVEL", "MEDIA", "MIRAMAX", "NETFLIX", "NEW LINE", "PARAMOUNT", "PEACOCK", "PHILO", "PICTURE", "PIXAR", "SONY", "STARLIGHT", "STARZ", "STUDIO", "STX", "TENCENT", "TOUCHSTONE", "TUBI", "TV", "UNIVERSAL", "VIKI", "VUDU", "WARNER", "WEINSTEIN"]
 }
